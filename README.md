@@ -165,7 +165,7 @@ probabilities = model.predict_proba(X_new)[:, 1]
 │   ├── bank-additional/
 │   │   └── bank-additional-full.csv
 │   └── bank-names.txt / documentation
-└── README_Portuguese_Bank.md              # This file
+└── README.md              # This file
 ```
 
 ---
